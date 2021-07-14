@@ -2,6 +2,9 @@ html,body{
     height:100%;
     display:flex;
 }
+* {
+    box-sizing: border-box;
+}
 .name-tag {
     border: 1px solid red;
     width: 350px;
